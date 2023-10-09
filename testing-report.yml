@@ -10,10 +10,6 @@
 - summary: |
     Проверка поиска товара по категории "smartphones"
   status: pass
-  
-- summary: |
-    Проверка поиска товара по категории 
-  status: pass
 
 - summary: |
     Проверка поиска товара по категории "laptops"
